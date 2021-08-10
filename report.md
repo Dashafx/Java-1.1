@@ -6,14 +6,14 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-https://github.com/Dashafx/Java-1.1/issues/1#issue-963431240
+**[Функциональность валидации номеров банковских карт #1](https://github.com/Dashafx/Java-1.1/issues/1#issue-963431240)**
 
 Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты*:
 
 Код разработчика
 
-В качестве тестовых данных использовались данные с сайта https://www.getcreditcardnumbers.com/
+В качестве тестовых данных использовались данные с **[сайта] (https://www.getcreditcardnumbers.com/)**
 
 номера карт платежной системы American Express
 номера карт платежной системы Mastercard
@@ -22,4 +22,4 @@ https://github.com/Dashafx/Java-1.1/issues/1#issue-963431240
 
 <Widows 10 64bit>
 <версия Java 11>
-<ntelliJ IDEA>
+<ntelliJ IDEA>commit-
