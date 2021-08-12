@@ -30,4 +30,4 @@
 
 <Widows 10 64bit>
 <версия Java 11>
-<ntelliJ IDEA>commit-
+<ntelliJ IDEA>
